@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "LTfq8OamE4Bni+o16Zu8N/vq0FTLaP3fc9EykCuMJG5awDbkFbONSNWABKqQSf3Btk6IhYokcnj0C4uQh3tepw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NOTEBOOK\\source\\repos\\PushNotification\\PushNotification\\PushNotification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\corepush\\3.0.4\\corepush.3.0.4.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\gemojisharp\\1.4.0\\gemojisharp.1.4.0.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\gemojisharp.taghelpers\\1.4.0\\gemojisharp.taghelpers.1.4.0.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.2\\swashbuckle.aspnetcore.6.2.2.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.2\\swashbuckle.aspnetcore.swagger.6.2.2.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.2\\swashbuckle.aspnetcore.swaggergen.6.2.2.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.2\\swashbuckle.aspnetcore.swaggerui.6.2.2.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
